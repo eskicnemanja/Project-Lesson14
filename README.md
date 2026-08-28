@@ -1,1 +1,4 @@
-﻿Add clearer setup instructions for developers who are new to the project. Include: - Required tools - Installation steps - Basic Git commands
+﻿## Developer Setup
+Install Git.
+Clone the repository.
+Create a feature branch before making changes.
